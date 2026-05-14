@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Calendar Emoji Auto-Tagger",
+  "version": "2.2.0",
+  "description": "Google Calendar 일정 제목에 연관 이모지를 자동으로 달아줍니다.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://calendar.google.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://calendar.google.com/*"],
+      "js": ["emoji-map.js", "content.js"],
+      "css": ["style.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": { "16": "icon16.png", "32": "icon32.png", "48": "icon48.png" }
+  },
+  "icons": { "16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png" }
+}
