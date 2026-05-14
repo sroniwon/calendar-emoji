@@ -113,6 +113,9 @@
 
   /* ── 푸터 ── */
   .footer { padding:8px 18px 14px; text-align:center; font-size:9px; color:var(--faint); letter-spacing:.3px; }
+  .footer .bmc-link { color:var(--muted); text-decoration:none; transition:color .15s; margin-left:4px; }
+  .footer .bmc-link:hover { color:var(--accent); }
+  .footer .footer-sep { opacity:.5; margin:0 2px; }
 </style>
 </head>
 <body>
@@ -178,12 +181,4 @@
 <!-- 카테고리 -->
 <div class="cat-section">
   <button class="cat-toggle" id="cat-toggle" data-i18n="catShow">▶ 지원하는 이모지 카테고리 보기</button>
-  <div class="cat-list" id="cat-list"></div>
-</div>
-
-<div class="footer" data-i18n="footer">v2.2 · Keyword matching · Offline · No server</div>
-
-<script src="emoji-map.js"></script>
-<script src="popup.js"></script>
-</body>
-</html>
+  <div class="cat-list" i

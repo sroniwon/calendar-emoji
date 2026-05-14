@@ -64,25 +64,12 @@
 
 ---
 
-## 6. 어린이 개인정보 / Children's Privacy
+## 5-1. 외부 링크 / External Links
 
-본 확장 프로그램은 13세 미만 어린이로부터 어떠한 개인정보도 의도적으로 수집하지 않습니다. (수집하는 정보 자체가 없음)
+본 확장 프로그램의 팝업 메뉴 푸터에는 후원 페이지로 연결되는 외부 링크(`buymeacoffee.com/sroniwon`)가 포함되어 있습니다. 사용자가 이 링크를 클릭하면 새 탭에서 해당 외부 사이트가 열리며, 이는 전적으로 사용자의 선택에 따른 행동입니다. 본 확장 프로그램은 사용자가 해당 링크를 클릭했는지 여부를 추적하지 않습니다. Buy Me a Coffee는 자체 개인정보 처리방침을 따릅니다.
 
----
-
-## 7. 정책 변경 / Changes to This Policy
-
-향후 정책에 중요한 변경이 있을 경우 본 페이지 상단의 "Last updated" 날짜가 갱신되며, 변경 사항은 확장 프로그램 업데이트와 함께 안내됩니다. AI 기반 기능이 추가될 경우(예: Anthropic API 연동), 본 정책은 그에 맞춰 사전 공지 후 업데이트됩니다.
+The extension's popup footer contains an external link to a donation page (`buymeacoffee.com/sroniwon`). Clicking this link opens the external site in a new tab and is entirely the user's choice. The extension does not track whether a user clicks this link. Buy Me a Coffee operates under its own privacy policy.
 
 ---
 
-## 8. 문의 / Contact
-
-본 정책에 대한 질문이나 문의는 다음 이메일로 연락해 주세요:
-
-**jwhwang@jupiterleto.com**
-
----
-
-*Calendar Emoji Auto-Tagger · v2.2 · Offline · No server · No tracking*
-*© 2026 Jupiter Leto. All rights reserved.*
+## 6. �
