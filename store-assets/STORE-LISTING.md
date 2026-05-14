@@ -33,17 +33,17 @@ Automatically add the perfect emoji to your Google Calendar event titles. 178+ k
 Type "Team Meeting" and it instantly becomes "💼 Team Meeting".
 "Workout" → "🏃 Workout". "Trip to Hawaii" → "✈️ Trip to Hawaii".
 
-Calendar Emoji Auto-Tagger reads your event titles and adds the right emoji — automatically, instantly, and entirely inside your browser.
+Calendar Emoji Auto-Tagger reads your event titles and adds the right emoji. Automatically, instantly, and entirely inside your browser.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 WHY I BUILT THIS
 
-I noticed that putting an emoji in front of an event title made my calendar way more fun — and way easier to scan at a glance. The week stopped looking like a wall of text and started looking like a visual map of my life.
+I noticed that putting an emoji in front of an event title made my calendar way more fun, and way easier to scan at a glance. The week stopped looking like a wall of text and started looking like a visual map of my life.
 
 But picking the right emoji for every single event got tedious fast. So I made it automatic.
 
-And for the words the built-in rules don't catch — a project codename, a person's name, an inside joke — you can add your own custom emoji + keyword pairs and they apply instantly.
+And for the words the built-in rules don't catch (a project codename, a person's name, an inside joke), you can add your own custom emoji + keyword pairs and they apply instantly.
 
 The result is a calendar that's productive AND a little bit playful. Try it for a week and you won't want to go back.
 
@@ -58,7 +58,7 @@ Covers work, meals, fitness, health, travel, learning, family, and more.
 English, Korean, Japanese, Chinese, Spanish, and French event titles are all recognized.
 
 ⚡ Instant, automatic tagging
-The emoji appears the moment you finish typing your title — no extra clicks.
+The emoji appears the moment you finish typing your title. No extra clicks.
 
 🔒 100% offline · No server
 Everything runs inside your browser. Your calendar content is never sent anywhere.
@@ -67,7 +67,7 @@ Everything runs inside your browser. Your calendar content is never sent anywher
 Pick from Forest Green, Dark, Light, Pastel, or Vivid to match your style.
 
 ✏️ Add your own custom rules
-Define your own [emoji + keyword] combinations for the things you care about — project names, nicknames, inside references, anything.
+Define your own [emoji + keyword] combinations for the things you care about. Project names, nicknames, inside references, anything.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -88,7 +88,7 @@ https://sroniwon.github.io/calendar-emoji/privacy-policy.html
 
 1. Install the extension.
 2. Open Google Calendar and create an event.
-3. Type a title — the matching emoji appears automatically.
+3. Type a title, the matching emoji appears automatically.
 
 Zero setup. It just works.
 
@@ -139,12 +139,12 @@ Automatically add a relevant emoji to a Google Calendar event title based on key
 
 **`storage` permission:**
 ```
-Used only to store the user's own preferences locally via chrome.storage.sync — the on/off toggle, language, theme, custom emoji rules, and a count of how many times the user has used the feature. No data is transmitted to any external server.
+Used only to store the user's own preferences locally via chrome.storage.sync. This includes the on/off toggle, language, theme, custom emoji rules, and a count of how many times the user has used the feature. No data is transmitted to any external server.
 ```
 
 **`host_permissions: https://calendar.google.com/*`:**
 ```
-Required so the extension can detect when the user is typing an event title on Google Calendar and insert the matching emoji into that same input field. The extension only reads and modifies the title input field on calendar.google.com — it does not read, collect, store, or transmit any other event data.
+Required so the extension can detect when the user is typing an event title on Google Calendar and insert the matching emoji into that same input field. The extension only reads and modifies the title input field on calendar.google.com. It does not read, collect, store, or transmit any other event data.
 ```
 
 ### Data Usage
@@ -205,4 +205,4 @@ Free
    - Compliance certification: check all 3 boxes
 5. **Distribution tab**: Public / All regions / Free
 6. **Account → Privacy Policy URL** (paste the GitHub Pages URL)
-7. Click **"
+7. Click **"Submit for r
