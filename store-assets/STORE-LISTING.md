@@ -30,10 +30,10 @@ Automatically add the perfect emoji to your Google Calendar event titles. 178+ k
 ```
 📅 Make your Google Calendar prettier and easier to scan at a glance.
 
-Type "Team Meeting" and it instantly becomes "💼 Team Meeting".
-"Workout" → "🏃 Workout". "Trip to Hawaii" → "✈️ Trip to Hawaii".
+Type "Meeting" and it becomes "🤝 Meeting".
+"Workout" → "🏃 Workout". "Trip to Hawaii" → "✈️ Trip to Hawaii". "Coffee chat" → "☕ Coffee chat".
 
-Calendar Emoji Auto-Tagger reads your event titles and adds the right emoji. Automatically, instantly, and entirely inside your browser.
+Calendar Emoji Auto-Tagger reads your event titles and adds a matching emoji. Automatically, and entirely inside your browser.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -57,17 +57,23 @@ Covers work, meals, fitness, health, travel, learning, family, and more.
 🌍 English and Korean today, more on the way
 Right now the extension recognizes English and Korean event titles. Support for Japanese, Spanish, and other languages is being added based on what users ask for. If your language isn't supported yet, you can still add your own custom rules to use it however you want.
 
-⚡ Instant, automatic tagging
-The emoji appears the moment you finish typing your title. No extra clicks.
+⚡ Automatic, no extra clicks
+When you press Enter, click Save, or move on to the next field, the emoji is added automatically.
+
+🎲 Different emoji each time
+Each keyword maps to several emojis, so the same keyword can show up as 🤝, 🗓️, 👔, or 📍 on different days. Keeps your calendar from looking repetitive.
 
 🔒 100% offline · No server
 Everything runs inside your browser. Your calendar content is never sent anywhere.
 
-🎨 5 themes
-Pick from Forest Green, Dark, Light, Pastel, or Vivid to match your style.
+🎨 7 themes to match your style
+A handful of light, dark, and color-rich themes for the popup.
 
 ✏️ Add your own custom rules
 Define your own [emoji + keyword] combinations for the things you care about. Project names, nicknames, inside references, anything.
+
+🧘 Already added an emoji? It stays.
+If a title already starts with an emoji you picked yourself, the extension leaves it alone.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -191,14 +197,4 @@ Free
 ## 🎯 Submission Order in Dashboard
 
 1. **Dashboard home** → click **"Add new item"**
-2. Upload **`extension.zip`**
-3. **Store listing tab**:
-   - Title, Summary, Description (copy from above)
-   - Category: Productivity
-   - Language: English
-   - Upload **screenshot-1.png** (1280×800)
-   - Upload **promo-tile.png** as Small promo tile (440×280)
-4. **Privacy practices tab**:
-   - Single purpose
-   - Permission justifications (storage + host)
-   - Data usage: leave a
+2. Upload **`extensio
