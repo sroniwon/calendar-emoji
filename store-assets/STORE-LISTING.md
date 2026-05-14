@@ -23,7 +23,7 @@ Calendar Emoji Auto-Tagger
 
 ### Summary (≤ 132 chars)
 ```
-Automatically add the perfect emoji to your Google Calendar event titles. 178+ keyword rules, 6 languages, 100% offline.
+Automatically add the perfect emoji to your Google Calendar event titles. 178+ keyword rules, English & Korean, 100% offline.
 ```
 
 ### Description
@@ -54,8 +54,8 @@ The result is a calendar that's productive AND a little bit playful. Try it for 
 🎯 178+ built-in keyword rules
 Covers work, meals, fitness, health, travel, learning, family, and more.
 
-🌍 Works in 6 languages
-English, Korean, Japanese, Chinese, Spanish, and French event titles are all recognized.
+🌍 English and Korean today, more on the way
+Right now the extension recognizes English and Korean event titles. Support for Japanese, Spanish, and other languages is being added based on what users ask for. If your language isn't supported yet, you can still add your own custom rules to use it however you want.
 
 ⚡ Instant, automatic tagging
 The emoji appears the moment you finish typing your title. No extra clicks.
@@ -201,8 +201,4 @@ Free
 4. **Privacy practices tab**:
    - Single purpose
    - Permission justifications (storage + host)
-   - Data usage: leave all unchecked
-   - Compliance certification: check all 3 boxes
-5. **Distribution tab**: Public / All regions / Free
-6. **Account → Privacy Policy URL** (paste the GitHub Pages URL)
-7. Click **"Submit for r
+   - Data usage: leave a
