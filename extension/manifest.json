@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Calendar Emoji Auto-Tagger",
   "version": "2.2.0",
-  "description": "Google Calendar 일정 제목에 연관 이모지를 자동으로 달아줍니다.",
+  "description": "Automatically add the perfect emoji to your Google Calendar event titles. 178+ keyword rules, English & Korean, 100% offline.",
   "permissions": [
     "storage"
   ],
@@ -24,5 +24,4 @@
     "default_popup": "popup.html",
     "default_icon": { "16": "icon16.png", "32": "icon32.png", "48": "icon48.png" }
   },
-  "icons": { "16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png" }
-}
+  "icons": { "16": "icon16.png", "32": "icon32.png", "4
