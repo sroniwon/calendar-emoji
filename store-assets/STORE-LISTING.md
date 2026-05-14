@@ -70,7 +70,9 @@ Everything runs inside your browser. Your calendar content is never sent anywher
 A handful of light, dark, and color-rich themes for the popup.
 
 ✏️ Add your own custom rules
-Define your own [emoji + keyword] combinations for the things you care about. Project names, nicknames, inside references, anything.
+Don't see the keyword you want in the built-in list? Add your own. Define any [emoji + keyword] combination for the things you care about: project names, nicknames, inside references, anything.
+
+And if you want a custom keyword to randomize too, just add it again with a different emoji. The next time it triggers, it picks from all the emojis you assigned to that word, just like the built-in rules.
 
 🧘 Already added an emoji? It stays.
 If a title already starts with an emoji you picked yourself, the extension leaves it alone.
@@ -183,18 +185,4 @@ Public
 
 ### Regions
 ```
-All regions
-```
-*Or pick "United States only" if you specifically want to limit. But "All regions" is the default and recommended.*
-
-### Pricing
-```
-Free
-```
-
----
-
-## 🎯 Submission Order in Dashboard
-
-1. **Dashboard home** → click **"Add new item"**
-2. Upload **`extensio
+All reg
